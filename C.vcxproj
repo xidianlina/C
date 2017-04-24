@@ -19,7 +19,14 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="nine10.c" />
+    <ClCompile Include="nine11.c" />
     <ClCompile Include="nine4.c" />
+    <ClCompile Include="nine5.c" />
+    <ClCompile Include="nine6.c" />
+    <ClCompile Include="nine7.c" />
+    <ClCompile Include="nine8.c" />
+    <ClCompile Include="nine9.c" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
