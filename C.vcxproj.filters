@@ -39,5 +39,8 @@
     <ClCompile Include="nine11.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="tenday_mon1.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -27,6 +27,7 @@
     <ClCompile Include="nine7.c" />
     <ClCompile Include="nine8.c" />
     <ClCompile Include="nine9.c" />
+    <ClCompile Include="tenday_mon1.c" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
