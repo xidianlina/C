@@ -19,15 +19,40 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="nine10.c" />
-    <ClCompile Include="nine11.c" />
-    <ClCompile Include="nine4.c" />
-    <ClCompile Include="nine5.c" />
-    <ClCompile Include="nine6.c" />
-    <ClCompile Include="nine7.c" />
-    <ClCompile Include="nine8.c" />
-    <ClCompile Include="nine9.c" />
+    <ClCompile Include="ten1.c" />
+    <ClCompile Include="ten10.c" />
+    <ClCompile Include="ten11.c" />
+    <ClCompile Include="ten12.c" />
+    <ClCompile Include="ten13.c" />
+    <ClCompile Include="ten2.c" />
+    <ClCompile Include="ten3.c" />
+    <ClCompile Include="ten4.c" />
+    <ClCompile Include="ten5.c" />
+    <ClCompile Include="ten6.c" />
+    <ClCompile Include="ten7.c" />
+    <ClCompile Include="ten8.c" />
+    <ClCompile Include="ten9.c" />
+    <ClCompile Include="tenarf.c" />
+    <ClCompile Include="tenarray2d.c" />
+    <ClCompile Include="tenbounds.c" />
     <ClCompile Include="tenday_mon1.c" />
+    <ClCompile Include="tenday_mon2.c" />
+    <ClCompile Include="tenday_mon3.c" />
+    <ClCompile Include="tendesignate.c" />
+    <ClCompile Include="teneightd.c" />
+    <ClCompile Include="tenevens.c" />
+    <ClCompile Include="tenflc.c" />
+    <ClCompile Include="tenno_data.c" />
+    <ClCompile Include="tenorder.c" />
+    <ClCompile Include="tenpnt_add.c" />
+    <ClCompile Include="tenptr_ops.c" />
+    <ClCompile Include="tenrain.c" />
+    <ClCompile Include="tensomedata.c" />
+    <ClCompile Include="tensum_arr1.c" />
+    <ClCompile Include="tensum_arr2.c" />
+    <ClCompile Include="tenvararr2.c" />
+    <ClCompile Include="tenzippo1.c" />
+    <ClCompile Include="tenzippo2.c" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>

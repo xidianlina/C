@@ -15,31 +15,106 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="nine4.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="nine5.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="nine7.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="nine6.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="nine8.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="nine9.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="nine10.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="nine11.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="tenday_mon1.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="tenno_data.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="tensomedata.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="tenday_mon2.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="tendesignate.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="tenevens.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="tenbounds.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="tenrain.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="tenpnt_add.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="tenday_mon3.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="tensum_arr1.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="tensum_arr2.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="tenorder.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="tenptr_ops.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="tenarf.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="tenzippo1.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="tenzippo2.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="tenarray2d.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="tenvararr2.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="tenflc.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="teneightd.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ten1.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ten2.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ten3.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ten4.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ten5.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ten6.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ten7.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ten8.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ten9.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ten10.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ten11.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ten12.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ten13.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
